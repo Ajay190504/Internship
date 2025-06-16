@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 learning purpose merging
+=======
+second file
+temporary created
+>>>>>>> practice
